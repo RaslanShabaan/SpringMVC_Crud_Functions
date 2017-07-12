@@ -1,0 +1,4 @@
+this app enable user to perform db functions 
+insert - select - delete - update
+using spring mvc + maven configurtion
+using dao + service to make sure that data is heddin for securiy 
